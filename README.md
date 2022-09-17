@@ -1,7 +1,7 @@
 # <span title="Hey, that's me :D">Anthony Liu</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anthony-liu-74b858201//)
 
-<marquee>BREAKING NEWS! This is pretty cool to look at for a while.</marquee>
+<!-- <marquee>BREAKING NEWS! This is pretty cool to look at for a while.</marquee> -->
 
 # Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,8 +17,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://cdn.discordapp.com/attachments/251816470529441792/1020506211000537120/java-F39A32.png)
 
 # Work In Progress...
 uhhhhh need to find something
