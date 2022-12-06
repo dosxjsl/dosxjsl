@@ -25,7 +25,7 @@
 
 # Work In Progress...
 
-[![Advent of Code](https://img.shields.io/badge/AdventOfCode-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dosxjsl/Advent-of-Code)
+[![Advent of Code](https://img.shields.io/badge/Advent_Of_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dosxjsl/Advent-of-Code)
 
 # Stats
 
