@@ -29,7 +29,7 @@
 
 # 🚧 Work In Progress...
 
-[![Work In Progress](https://img.shields.io/badge/Advent_Of_Code-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/dosxjsl/Advent-of-Code](https://media.tenor.com/h1jmVbHLV6QAAAAM/vincent.gif))
+[![Work In Progress](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://media.tenor.com/h1jmVbHLV6QAAAAM/vincent.gif])
 <br><br>
 
 # 📊 Stats
